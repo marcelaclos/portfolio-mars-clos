@@ -204,6 +204,21 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+.certificate {
+  display: block;
+  margin: 40px auto;
+  width: 50%;
+}
+
+.cert {
+  background-color: rgb(221, 234, 235);
+}
+
+.color-btn {
+  background-color: rgb(65, 162, 165);
+}
+
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
@@ -226,5 +241,9 @@ footer .social-links a:hover {
   .about-section {
     text-align: center;
     padding: 0;
+  }
+
+  .certificate {
+    max-width: 80%;
   }
 }
