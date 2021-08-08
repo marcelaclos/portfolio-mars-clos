@@ -210,6 +210,23 @@ footer .social-links a:hover {
   width: 50%;
 }
 
+.rocket {
+  width: 15%;
+}
+
+.parachutes {
+  width: 10%;
+}
+
+.yoga {
+  width: 10%;
+
+}
+
+.weather-emoji {
+  width: 10%;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
