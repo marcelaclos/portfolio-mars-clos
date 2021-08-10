@@ -43,7 +43,8 @@ body {
 }
 
 .hero {
-  background: var(--secondary-color);
+
+  background-image: url("/images/sky.jpeg");
   text-align: center;
   padding: 80px 20px;
 }
