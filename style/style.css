@@ -248,6 +248,10 @@ footer .social-links a:hover {
 
 }
 
+.skeate {
+  margin-top: 20px;
+}
+
 .weather-emoji {
   width: 10%;
 }
@@ -314,9 +318,13 @@ section {
     font-size: 26px;
   }
 
+  .skeate {
+    width: 120px;
+    margin-top: 25px;
+  }
+
   .parachutes {
-    width: 100px;
-    margin-top: 20px;
+    width: 30px;
   }
 
   .project-desciption {
