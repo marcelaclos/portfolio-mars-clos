@@ -128,10 +128,14 @@ p {
   border: 1px solid #0808080a
 }
 
-
+.contact {
+  background-image: url("/images/mountain.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 .rounded-3 {
-
   width: 600px;
 }
 
