@@ -1,6 +1,7 @@
 :root {
   --branding-color: rgb(65, 162, 165);
   --secondary-color: rgb(221, 234, 235);
+  --third-color: #f8edeb;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
   --shadow: 1px 10px 10px 1px rgb(0 0 0 / 50%);
@@ -289,7 +290,7 @@ section {
 }
 
 section {
-  background-color: rgb(243, 227, 236);
+  background-color: var(--third-color);
   margin-top: 20px;
   margin-bottom: 30px;
   padding-top: 40px;
